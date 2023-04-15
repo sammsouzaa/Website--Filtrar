@@ -1,0 +1,37 @@
+body{
+    background: #b7ceee;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 300px;
+    margin: auto;
+}
+/*
+input{
+    width: 100%;
+    border-radius: 8px;
+    padding: 8px 10px;
+    border: 1px solid #000;
+    height: 45px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}*/
+
+li{
+    background: #fff;
+    border-radius: 8px;
+    width: 100%;
+    padding: 8px 15px;
+    margin: 8px 0;
+}
+
+#idtext{
+    background: #90add7;
+}
